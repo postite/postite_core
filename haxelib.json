@@ -1,0 +1,14 @@
+{
+    "name": "postite_core",
+    "url" : "https://github.com/jasononeil/useless/",
+    "license": "MIT",
+    "tags": ["cross", "core"],
+    "description": "",
+    "version": "0.0.2",
+    "classPath": "src",
+    "releasenote": "Initial release, everything is working correctly.",
+    "contributors": ["postite"],
+    "dependencies": {
+        }
+
+  }
